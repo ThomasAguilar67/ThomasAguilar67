@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Thomas Aguilar
 
-<!--
-**ThomasAguilar67/ThomasAguilar67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ciberseguridad 🛡️ | Desarrollador Python 🐍**
 
-Here are some ideas to get you started:
+Me especializo en construir herramientas de seguridad sólidas, entendiendo tanto la infraestructura defensiva (Blue Team) como el reconocimiento táctico (Red Team). Mi enfoque principal es la **Seguridad por Diseño**: crear software donde la protección de datos no sea una idea de último momento, sino la base del código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico & Habilidades
+* **Desarrollo:** Python, Desarrollo de GUIs (CustomTkinter), SQLite, Consumo de APIs REST.
+* **Criptografía:** Implementación de algoritmos AES-256 (Cifrado de datos) y SHA-256 (Hashing de identidades).
+* **Blue Team:** Análisis de logs, automatización de detección de intrusos (Fuerza Bruta), gestión de incidentes.
+* **Red Team:** Scripting de redes (Sockets TCP/IP), escaneo de puertos, footprinting.
+
+### 📬 Conectemos
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/thomas-aguilar-b1a1711b0/)
+* 📧 **Email:** tomasaguilar7@gmail.com
+
+---
+*"La seguridad no es un producto, es un proceso."*
